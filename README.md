@@ -4,9 +4,12 @@ Random notes on different topics
 
 ## Topics
 
-1. Markdown
-2. VSCode editor
-3. ConEmu
+1. [Markdown](https://github.com/nitr-himanshu/notes/blob/main/markdown.md)
+2. [VSCode](https://github.com/nitr-himanshu/notes/blob/main/vscode.md)
+3. [ConEmu](https://github.com/nitr-himanshu/notes/blob/main/conemu.md)
+4. [Linux](https://github.com/nitr-himanshu/notes/blob/main/linux.md)
+5. [vim](https://github.com/nitr-himanshu/notes/blob/main/vim.md)
+6. [vim_shortcuts](https://github.com/nitr-himanshu/notes/blob/main/vim_shortcuts.md)
 
 ## Tips
 
