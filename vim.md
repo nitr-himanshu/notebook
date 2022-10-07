@@ -31,7 +31,7 @@ filetype plugin indent on
 
 ## .vimrc config
 
-- Add these command at the end 
+- Add these command at the end
 
 |command|usage|comment|
 |---|---|---|
@@ -42,7 +42,6 @@ filetype plugin indent on
 |nmap \<F10> :vert term bash\<CR>|Start terminal vertically||
 |let Tlist_WinWidth=75|Taglist width|C/C++|
 |nmap \<F8> :TlistToggle\<CR>|Toggle Taglist|C/C++|
-
 
 ## C/CPP
 

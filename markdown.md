@@ -89,13 +89,19 @@
 
 **e.g.**
 
+\![github]\(img/github.png)
+
 ![github](img/github.png)
 
 ### Resize image
 
+\<img src="img/github.png" alt="github_resized" style="width:200px;"/>
+
 <img src="img/github.png" alt="github_resized" style="width:200px;"/>
 
 ### GIF images
+
+\<img src="img/minion.gif" alt="minion" style="width:200px;"/>
 
 <img src="img/minion.gif" alt="minion" style="width:200px;"/>
 
