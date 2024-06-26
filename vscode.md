@@ -1,6 +1,6 @@
 # VSCode
 
-## Extensions
+## Extension
 
 ### python
 
